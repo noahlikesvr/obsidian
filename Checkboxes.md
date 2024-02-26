@@ -1,0 +1,13 @@
+- [ ] To-do
+- [/] Incomplete
+- [x] Done
+- [-] Cancelled
+- [>] Forwarded
+- [?] Question
+- [!] Important
+- [b] Bookmark
+- [D] Date
+- [+] Add
+- [X] Checked
+- [i] Idea
+- [B] Brainstorm

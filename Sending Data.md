@@ -1,0 +1,4 @@
+- [ ] Initialize Bluetooth
+- [ ] Get signal from laptop or have someone press button
+- [ ] [[Sudo-code|Zip up directory]] on signal
+- [ ] Turn zip into html so it can be sent

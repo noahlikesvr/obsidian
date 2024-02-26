@@ -1,0 +1,7 @@
+- [x] Prototype [[Sudo-code|UI]] ✅ 2024-02-24
+- [ ] Create full UI
+- [x] Create stack ✅ 2024-02-24
+- [x] Get user input from interface ✅ 2024-02-24
+- [x] Save user input to stack ✅ 2024-02-24
+- [ ] Save stack as JSON
+- [ ] [[Sending Data|Send Data]]

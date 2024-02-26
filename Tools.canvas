@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"158b5ffc3d70a6ac","type":"link","url":"https://jsoncrack.com/editor","x":-420,"y":-320,"width":1164,"height":600},
+		{"id":"f0632008a6471d50","type":"link","url":"https://developer.android.com/guide/topics/connectivity/bluetooth","x":320,"y":380,"width":847,"height":640}
+	],
+	"edges":[]
+}

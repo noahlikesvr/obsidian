@@ -1,0 +1,88 @@
+- [x] Read settings ✅ 2024-02-24
+- [x] When loaded, read matches and robots, creates structure of matches with match key and robot key ✅ 2024-02-24
+- [x] Read all data already made, populate structure ✅ 2024-02-24
+- [x] Set UI variables ✅ 2024-02-24
+- [x] Present current match ✅ 2024-02-24
+- [ ] (WL) Communicate with other tablets to sync current match / alert, and deliver data to coaches
+- [ ] Match interface
+	- [ ] Determine stage
+	- [ ] Unlock UI for that stage
+	- [ ] Start stage -> In stage -> Next stage
+	- [ ] Auton UI
+		- [ ] Taxi - int (leaving start area)
+			- Undo
+		- [ ] Pickup Note - int
+			- Undo
+		- [ ] Dropped Note - int
+			- Undo
+		- [ ] Speaker - int
+			- Undo
+			- Scored
+			- Missed
+		- [ ] Amp - int
+			- Undo
+			- Scored
+			- Missed
+		- [ ] Trap - int
+			- Undo
+			- Scored
+			- Missed
+		- [ ] Crossed center - int
+			- Undo
+			- Add
+		- [ ] Contacted teammate - int
+			- Undo
+			- Add
+		- [ ] Contacted opposition - int
+			- Undo
+			- Add
+		- [ ] Ruined teammates auton - int
+			- Undo
+			- Add
+	
+	- [ ] Teleop UI
+		- [ ] Pickup Note - int
+			- Undo
+		- [ ] Dropped Note - int
+			- Undo
+		- [ ] Speaker - int
+			- Undo
+			- Scored
+			- Missed
+		- [ ] Amp - int
+			- Undo
+			- Scored
+			- Missed
+		- [ ] Trap - int
+			- Undo
+			- Scored
+			- Missed
+		- [ ] Collected from source player - int
+			- Undo
+			- Add
+		- [ ] Collected from source ground - int
+			- Undo
+			- Add
+		- [ ] Drive seems broken - int
+			- Undo
+			- Add
+		- [ ] Intake seems broken - int
+			- Undo
+			- Add
+		- [ ] Shooting seems broken - int
+			- Undo
+			- Add
+		- [ ] Amp seems broke - int
+			- Undo
+			- Add
+		- [ ] Climb seems broken - int
+			- Undo
+			- Add
+		- [ ] Climb attempt
+			- Climb success
+			- Climb fail
+		
+	- [ ] Previous match / next match
+		- Write file with match interface data
+	- [ ] [[Sending Data|Zip up directory]]
+		- Naming struct - $color$-$position$.zip.html
